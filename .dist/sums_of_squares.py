@@ -5,4 +5,4 @@ def sums_of_squares(y):
         sum += i*i
     result = sum
     return result
-print(sums_of_squares([2, 10, 9, 3]))
+print(sums_of_squares([2, 10, 5, 3]))
