@@ -1,4 +1,3 @@
-#! /usr/bin/python
 def sums_of_squares(y):
     #Note that y is a list
     sum = 0
