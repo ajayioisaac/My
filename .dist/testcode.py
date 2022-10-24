@@ -5,6 +5,7 @@ def smart_calculator():
     if decision == 1:
         number_1 = eval(input('Enter the first number'))
         number_2 = eval(input('Enter the second number'))
+    
     else:
         print('Thanks for using smart calculator')
 smart_calculator()
